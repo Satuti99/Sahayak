@@ -2,3 +2,30 @@
 - ### Sahayak -a vigilant antidrug companion, is a dedicated chatbotcommitted to providing support and information.
 - ### With empathy as its core, Sahayak aims to guide users away from the clutches of substance abuse, offering resources, encouragement, and a listening ear. 
 - ### Harnessing technology for a healthier tomorrow, Sahayak stands as a reliable ally in the fight against drugs, promoting a drug-free lifestyle through understanding and assistance.
+## Key Highlights
+- ### Data Preparation
+Prepare a dataset in the required format (JSONL) with input-output pairs or any suitable format.
+- ### Set Up GPU and Environment
+ Utilize brev.dev or a similar platform to obtain GPU resources.Choose appropriate specifications (e.g., Python version, CUDA version) for the environment.Build and configure the environment using the provided badge.
+- ### Load Base Model (Phi-2)
+Load the Phi-2 model using 8-bit quantization for efficient training.
+- ### Tokenization
+Set up the tokenizer, considering padding, truncation, and max_length.Tokenize the dataset for training and validation.
+- ### Set Up LoRA
+Apply preprocessing to the model for training using LoRA layers.Define LoRA configurations for the model.
+- ### Run Training
+Train the model using the provided Trainer class.Monitor training metrics and adjust hyperparameters as needed.
+
+- ### Model Evaluation
+Evaluate the trained model on a sample prompt to check performance.
+- ### User Interface (UI) Integration
+Utilize Anvil to create a user-friendly interface for the chatbot.
+
+## Tech Stack:
+- Machine Learning Libraries: Hugging Face Transformers, Accelerate, PEFT, Datasets
+- GPU and Cloud Services: Brev.dev or similar platform
+- Data Processing and Visualization: Matplotlib
+- Experiment Tracking: Weights & Biases
+- User Interface: Anvil
+- Python Libraries: Torch, scipy, ipywidgets, einops
+- Version Control: Git
