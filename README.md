@@ -42,6 +42,10 @@ Utilize Anvil to create a user-friendly interface for the chatbot.
 - Python Libraries: Torch, scipy, ipywidgets, einops
 - Version Control: Git  </br>
 
+## App Link :
+Link : https://knowledgeable-strident-cold.anvil.app/
+
+
 ## Screenshots of live demo:
   
   ![Screenshot (175)](https://github.com/Satuti99/Sahayak/assets/115169702/1111e096-7ee1-42dc-9e74-101853359c2c)
@@ -49,5 +53,3 @@ Utilize Anvil to create a user-friendly interface for the chatbot.
   ![image](https://github.com/Satuti99/Sahayak/assets/97314846/f53ab5a9-f9fd-4bc7-b184-bd4131cfd381)
 
 
-## App Link :
-Link : https://knowledgeable-strident-cold.anvil.app/
