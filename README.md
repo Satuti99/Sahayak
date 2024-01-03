@@ -41,3 +41,9 @@ Utilize Anvil to create a user-friendly interface for the chatbot.
 - User Interface: Anvil
 - Python Libraries: Torch, scipy, ipywidgets, einops
 - Version Control: Git
+  #Screenshots :
+  ![Screenshot (175)](https://github.com/Satuti99/Sahayak/assets/115169702/1111e096-7ee1-42dc-9e74-101853359c2c)
+![Screenshot (176)](https://github.com/Satuti99/Sahayak/assets/115169702/e9c631b7-dae0-414b-99cd-06430fb3dd13)
+![Screenshot (178)](https://github.com/Satuti99/Sahayak/assets/115169702/dde5eabc-95f1-4078-8bc8-755e0f9f54a6)
+
+
