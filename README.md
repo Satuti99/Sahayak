@@ -1,4 +1,4 @@
-# Sahayak [My Web App](https://https://knowledgeable-strident-cold.anvil.app/)
+# Sahayak [Sahayak App](https://knowledgeable-strident-cold.anvil.app/)
 
 
 https://github.com/Satuti99/Sahayak/assets/115169702/ccf92f6c-691c-4fdf-b41e-075ecde41f85
