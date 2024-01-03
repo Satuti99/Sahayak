@@ -1,7 +1,14 @@
 # Sahayak : [Sahayak App](https://knowledgeable-strident-cold.anvil.app/)
 
 
-https://github.com/Satuti99/Sahayak/assets/115169702/ccf92f6c-691c-4fdf-b41e-075ecde41f85
+
+
+https://github.com/Satuti99/Sahayak/assets/115169702/c7feeb3f-cf55-4713-aed4-82671c5c0f52
+
+
+
+
+
 
 - ### Sahayak -a vigilant antidrug companion, is a dedicated chatbot committed to providing support and information.Main objective of this chatbot is to handle sensative chats of drugs & alcohol, as it gives remedies & specialized responses.Therefore our main goal is to finetune the chatbot over such sensitive data, & drug addicted person can use & ask questions freely
 - ### With empathy as its core, Sahayak aims to guide users away from the clutches of substance abuse, offering resources, encouragement, and a listening ear. 
