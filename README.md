@@ -35,7 +35,7 @@ Utilize Anvil to create a user-friendly interface for the chatbot.
 
 ## Tech Stack:
 - Machine Learning Libraries: Hugging Face Transformers, Accelerate, PEFT, Datasets
-- GPU and Cloud Services: Brev.dev or similar platform
+- GPU and Cloud Services: AWS Sagemaker & Google Colab
 - Data Processing and Visualization: Matplotlib
 - Experiment Tracking: Weights & Biases
 - User Interface: Anvil
