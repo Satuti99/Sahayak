@@ -18,7 +18,7 @@ https://github.com/Satuti99/Sahayak/assets/115169702/c7feeb3f-cf55-4713-aed4-826
 - ### Data Preparation
 Prepare a dataset in the required format (JSONL) with input-output pairs or any suitable format.
 - ### Set Up GPU and Environment
- Utilize brev.dev or a similar platform to obtain GPU resources.Choose appropriate specifications (e.g., Python version, CUDA version) for the environment.Build and configure the environment using the provided badge.
+ Utilize Google Colab or a similar platform to obtain GPU resources.Choose appropriate specifications (e.g., Python version, CUDA version) for the environment.Build and configure the environment using the provided badge.
 - ### Load Base Model (Phi-2)
 Load the Phi-2 model using 8-bit quantization for efficient training.
 - ### Tokenization
